@@ -1,17 +1,21 @@
-# belajar_flutter_day1
+# belajar_flutter_day
 
-A new Flutter project.
+-- 1. Pengenalan Flutter
+-- 2. Widget Tree
+-- 3. AppBar & Scaffold
+-- 4. Layouting
+-- 5. Theming
+-- 6. Routing
+-- 7. Integrasi REST Api
+-- 8. State Management
+-- 9. Release Playstore
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Ini adalah repository untuk menyimpan beberapa project flutter yang telah dibuat saat meeting online
 
-A few resources to get you started if this is your first Flutter project:
+untuk desain UI bisa akses di :
+Figma : https://www.figma.com/file/iebweLNVzgmMwom5kl4bcy/Project-Awal-Flutter-Day-1
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# belajar_flutter_day1
+Ingin mengikuti free course belajar flutter untuk pemula silahkan kontak saya di : 
+FB : facebook.com/dieasid
+IG : instagram.com/dimas.ibnu.malik
