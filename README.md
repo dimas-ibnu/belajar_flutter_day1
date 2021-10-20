@@ -1,14 +1,14 @@
 # belajar_flutter_day
 
--- 1. Pengenalan Flutter
--- 2. Widget Tree
--- 3. AppBar & Scaffold
--- 4. Layouting
--- 5. Theming
--- 6. Routing
--- 7. Integrasi REST Api
--- 8. State Management
--- 9. Release Playstore
+-1. Pengenalan Flutter
+-2. Widget Tree
+-3. AppBar & Scaffold
+-4. Layouting
+-5. Theming
+-6. Routing
+-7. Integrasi REST Api
+-8. State Management
+-9. Release Playstore
 
 
 Ini adalah repository untuk menyimpan beberapa project flutter yang telah dibuat saat meeting online
